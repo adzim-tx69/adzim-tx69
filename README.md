@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,git,github,vscode" />
 </p>
-## 📊 GitHub Stats
+
 
 ![](https://github-readme-stats.vercel.app/api?username=adzim-tx69&show_icons=true&theme=tokyonight)
 
