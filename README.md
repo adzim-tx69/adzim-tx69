@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there 👋, I'm Muhammad Nur Adzim
 
-<!--
-**adzim-tx69/adzim-tx69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-Year Informatics Student
 
-Here are some ideas to get you started:
+💻 Currently learning:
+- C++
+- Python
+- HTML & CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I'm interested in:
+- Software Development
+- Data Structures & Algorithms
+- Web Development
+
+🚀 My goal is to improve my programming skills and build useful projects.
+
+---
+### 🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,git,github,vscode" />
+</p>
+
+---
+
+### 📂 Current Projects
+
+- 🏥 Klinik Management System (C++)
+- 🌐 Web Development Projects
+- 📚 College Assignments
+
+---
+
+### 📫 Connect with Me
+
+- GitHub: **github.com/adzim-tx69**
+
+⭐ Thanks for visiting my profile!
