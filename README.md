@@ -1,36 +1,37 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Muhammad%20Nur%20Adzim&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=First-Year%20Informatics%20Student&descAlignY=60" />
+</p>
 
-# 👋 Hi, I'm Muhammad Nur Adzim
+<h1 align="center">Hi 👋 I'm Muhammad Nur Adzim</h1>
 
-### 🎓 First-Year Informatics Student
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Learning+C%2B%2B+%26+Python;Future+Software+Engineer;Always+Learning+New+Things" />
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;First-Year+Informatics+Student;Learning+C%2B%2B+%26+Python;Future+Software+Developer" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 First-Year Informatics Student in Indonesia
+🎓 First-Year Informatics Student
 
-💻 Currently learning:
+🌱 Currently learning
+
 - C++
 - Python
-- HTML
-- CSS
+- HTML & CSS
 - JavaScript
 
-🎯 Interested in:
-- Software Engineering
+💡 Interested in
+
+- Software Development
 - Data Structures & Algorithms
 - Web Development
 
-📚 Always learning and building new projects.
+🚀 My goal is to become a professional Software Engineer and continuously improve my programming skills.
 
 ---
 
-## 💻 Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,git,github,vscode" />
@@ -38,31 +39,33 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=adzim-tx69&show_icons=true&theme=tokyonight"/>
 
-![](https://github-readme-stats.vercel.app/api?username=adzim-tx69&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adzim-tx69&layout=compact&theme=tokyonight"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adzim-tx69&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adzim-tx69&theme=tokyonight"/>
+</p>
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Current Projects
 
-🏥 Klinik Management System
-
-🛒 Cashier Application
+🏥 Klinik Management System (C++)
 
 🌐 Website Development
 
-📈 Graph Algorithms (BFS • DFS • Dijkstra)
+📊 Graph Algorithms (BFS • DFS • Dijkstra)
+
+🛒 Cashier System
 
 ---
 
-## 🌎 Connect With Me
+## 🌐 Connect with Me
 
 <p align="center">
 <a href="https://github.com/adzim-tx69">
@@ -72,10 +75,10 @@
 
 ---
 
-<div align="center">
+<p align="center">
+⭐ Thank you for visiting my profile ⭐
+</p>
 
-### ⭐ Thanks for visiting my profile!
-
-![](https://komarev.com/ghpvc/?username=adzim-tx69&style=for-the-badge&color=blue)
-
-</div>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+</p>
