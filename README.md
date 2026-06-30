@@ -1,5 +1,14 @@
 # Hi there 👋, I'm Muhammad Nur Adzim
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,git,github,vscode" />
+</p>
+## 📊 GitHub Stats
 
+![](https://github-readme-stats.vercel.app/api?username=adzim-tx69&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=adzim-tx69&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adzim-tx69&layout=compact&theme=tokyonight)
 🎓 First-Year Informatics Student
 
 💻 Currently learning:
